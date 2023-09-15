@@ -11,9 +11,8 @@
 <h2>STATS</h2>
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Agrawal-22&show_icons=true&theme=radical)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Agrawal-22&langs_count=8)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Agrawal-22&layout=compact&theme=radical)
 
 <h2>TOOLS</h2>
 <hr>
