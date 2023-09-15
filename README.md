@@ -1,7 +1,7 @@
 ## <h1>H E L L O</h1>
 <h4>Nice to meet you</h4>
 <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=50&pause=1000&color=AA56F7&background=FFF7F100&center=true&vCenter=true&width=500&height=200&lines=Hi%2C!+I'm+Aman+;I'm+a+Software+Engineer" alt="Typing SVG" /></a></center>
-<hr>
+
 🔭 Pursuing B.Tech. in CSE at LPU 2026' batch.
 
 🌱 Currently studying C++.
