@@ -1,5 +1,7 @@
 ### Hello 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 🔭 Pursuing B.Tech. in CSE at LPU 2026' batch.
 
 🌱 Currently studying C++.
