@@ -1,5 +1,6 @@
 ## <h1>H E L L O</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=50&pause=1000&color=1AA1F7&background=FFF7F100&center=true&vCenter=true&width=435&lines=Hi%2C!+I'm+Aman+;I'm+a+Software+Engineer)](https://git.io/typing-svg)
 
 <hr>
 🔭 Pursuing B.Tech. in CSE at LPU 2026' batch.
