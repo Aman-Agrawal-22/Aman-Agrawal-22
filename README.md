@@ -7,9 +7,10 @@
 🌱 Currently studying C++.
 
 📫 Contact me at amanag22.aa@gmail.com
-<h2>STATS</h2><hr>
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Agrawal-22&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
+<hr>
+<h2>STATS</h2>
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Agrawal-22&show_icons=true&theme=radical)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Agrawal-22&langs_count=8)
 
 
