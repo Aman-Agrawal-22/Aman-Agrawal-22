@@ -56,18 +56,7 @@
 <br>
 <br>
 
-<p><h1 align="left"> <strong>T O P &nbsp; R E P O S I T O R I E S</strong></h1>
-<br>
-<br>
 
-<a href="https://github.com/Aman-Agrawal-22/C">
-  <img align="center" src="https://github.com/Aman-Agrawal-22/Income-Tax-Calculator" />
-</a>
-<a href="https://github.com/Aman-Agrawal-22/GYM">
-  <img align="center" src="https://github.com/Aman-Agrawal-22/HTML-PROJECT" />
-</a>
-
-<br> <br><br><br>
 <h1 align="center"><strong> Connect with me </h1></strong>
 <center>
 <p align="center">
