@@ -61,10 +61,10 @@
 <br>
 
 <a href="https://github.com/Aman-Agrawal-22/C">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Agrawal-22&repo=C&theme=gotham" />
+  <img align="center" src="https://github.com/Aman-Agrawal-22/Income-Tax-Calculator" />
 </a>
 <a href="https://github.com/Aman-Agrawal-22/GYM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Agrawal-22&repo=GYM&theme=gotham" />
+  <img align="center" src="https://github.com/Aman-Agrawal-22/HTML-PROJECT" />
 </a>
 
 <br> <br><br><br>
