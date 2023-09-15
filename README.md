@@ -6,7 +6,9 @@
 
 📫 Contact me at amanag22.aa@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
+
+
 
 https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
 
