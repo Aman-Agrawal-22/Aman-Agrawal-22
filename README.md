@@ -1,4 +1,4 @@
-### Hello ![image](https://github.com/Aman-Agrawal-22/Aman-Agrawal-22/assets/114796892/8851ed04-501b-4900-8188-07559e0b9063)
+### Hello https://camo.githubusercontent.com/aa80268b62984a6ee32f315d1394a0ef915e6bfc508ea59095ab663545316893/68747470733a2f2f736c61636b6d6f6a69732e636f6d2f656d6f6a69732f383830392d776176655f68656c6c6f2f646f776e6c6f6164
 
 <hr>
 🔭 Pursuing B.Tech. in CSE at LPU 2026' batch.
