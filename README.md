@@ -13,8 +13,6 @@
 <br>
 <br>
 <img src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/image%207.png">
-<br>
-<br>
 <!-- <img src="https://i.ibb.co/pyLNVkL/Romantic-Tag-for-Couples-Made-with-Poster-My-Wall.jpg" alt="Romantic-Tag-for-Couples-Made-with-Poster-My-Wall" border="0">  -->
 <div>	 
 <br><br>
