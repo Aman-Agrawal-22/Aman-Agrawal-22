@@ -1,18 +1,3 @@
-<!--
-**Ash-codes18/Ash-codes18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ..
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1><strong>H E L L O <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 /></strong></h1>
 <h3><strong>Nice to meet you!</strong></h3>
  <div align="right"> 
@@ -87,21 +72,18 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Agrawal-22&repo=GYM&theme=gotham" />
 </a>
 
-<!-- 	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=GYM&theme=gotham)](https://github.com/Ash-codes18/GYM) -->
 <br> <br><br><br>
 <h1 align="center"><strong> Connect with me </h1></strong>
 <center>
 <p align="center">
 
-<div align="center" class="icons-social" style="margin-left: 10px;"><a href="https://linkedin.com/in/ashmit-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmit-mehta" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20599226/ashmit-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20599226/ashmit-mehta" height="30" width="40" /></a>
-<a href="https://fb.com/ashmit.mehta.142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashmit.mehta.142" height="30" width="40" /></a>
-<a href="https://instagram.com/mehta.ashmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehta.ashmit" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ashmit_mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc24ozjupfgljtzgshlnh5aw" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ash_codes00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ash_codes00" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rmehta_rahul2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rmehta_rahul2" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ashmit_mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashmit_mehta" height="30" width="40" /></a>
-<a href="https://discord.gg/Ashmit#1879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ashmit#1879" height="30" width="40" /></a></div>
+<div align="center" class="icons-social" style="margin-left: 10px;"><a href="https://www.linkedin.com/in/aman-agrawal22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-agrawal22" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20606228/aman-agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20599226/aman-agrawal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/a_man_022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_man_022" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@amanagrawal5422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc24ozjupfgljtzgshlnh5aw" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/amanvdjs11a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amanvdjs11a" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/amanag22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amanag22" height="30" width="40" /></a>
+<a href="https://discord.gg/amanag2208#9792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amanag2208#9792" height="30" width="40" /></a></div>
 </p>
 </center>
 <br>
