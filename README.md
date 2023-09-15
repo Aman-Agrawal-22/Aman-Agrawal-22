@@ -28,7 +28,3 @@
 <h2><pre>C O N T R I B U T I O N S</pre></h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aman-Agrawal-22&theme=dark)](https://git.io/streak-stats)
-
-<hr>
-
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
