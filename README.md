@@ -13,9 +13,7 @@
 <br>
 <br>
 <img src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/image%207.png">
-<!-- <img src="https://i.ibb.co/pyLNVkL/Romantic-Tag-for-Couples-Made-with-Poster-My-Wall.jpg" alt="Romantic-Tag-for-Couples-Made-with-Poster-My-Wall" border="0">  -->
 <div>	 
-<br><br>
 
 - 🔭 Pursuing B.Tech. in CSE at LPU 2026' batch.
 
@@ -26,7 +24,6 @@
 </div>
 <br><br>
 <div>
-<br><br><br>
 <p><h1><strong>S T A T S</strong> </h1></p>
 <div align="center">
 
