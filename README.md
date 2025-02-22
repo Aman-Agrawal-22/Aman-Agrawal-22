@@ -23,7 +23,7 @@
 - 📚 Currently improving my skills in `Kotlin`, and `XML`.  
 - 🤓 Always `learning new things` and working on `innovative projects`.  
 - 🤔 Open to new `job opportunities` in `Mobile Development` & `Software Engineering`.  
-- 💥 Check out <a href="https://github.com/Aman-Agrawal-22?tab=repositories" target="_blank">MY PROJECTS</a>.
+- 💥 Check out [MY PROJECTS](https://github.com/Aman-Agrawal-22?tab=repositories) (It will open in a new tab).
 
    </td>
    <td>
