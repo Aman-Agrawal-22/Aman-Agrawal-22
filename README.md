@@ -16,14 +16,14 @@
   <tr>
     <td>
       
-- 🎓 I am a `Final Year` student at [Lovely Professional University (LPU)](https://www.lpu.in/){:target="_blank"}, pursuing `Computer Science and Engineering (CSE)`.
+- 🎓 I am a `Final Year` student at <a href="https://www.lpu.in/" target="_blank">Lovely Professional University (LPU)</a>, pursuing `Computer Science and Engineering (CSE)`.
 - 🏆 Ranked among the `Top 200 in GeeksforGeeks Job-A-Thon 38` and Winner of `CipherSchools Coding Competition 2.0`.  
 - 👨‍💻 Passionate about `Android Development`, `Machine Learning`, and `Software Engineering`.  
 - 💻 I am a competitive programmer on `Codeforces`, `Leetcode`, and `Geeks For Geeks`.  
 - 📚 Currently improving my skills in `Kotlin`, and `XML`.  
 - 🤓 Always `learning new things` and working on `innovative projects`.  
 - 🤔 Open to new `job opportunities` in `Mobile Development` & `Software Engineering`.  
-- 💥 Check out [MY PROJECTS](https://github.com/Aman-Agrawal-22?tab=repositories){:target="_blank"}.
+- 💥 Check out <a href="https://github.com/Aman-Agrawal-22?tab=repositories" target="_blank">MY PROJECTS</a>.
 
    </td>
    <td>
