@@ -16,14 +16,14 @@
   <tr>
     <td>
       
-- 🎓 I am a `Final Year` student at [Lovely Professional University (LPU)](https://www.lpu.in/), pursuing `Computer Science and Engineering (CSE)`.  
+- 🎓 I am a `Final Year` student at [Lovely Professional University (LPU)](https://www.lpu.in/){:target="_blank"}, pursuing `Computer Science and Engineering (CSE)`.
 - 🏆 Ranked among the `Top 200 in GeeksforGeeks Job-A-Thon 38` and Winner of `CipherSchools Coding Competition 2.0`.  
 - 👨‍💻 Passionate about `Android Development`, `Machine Learning`, and `Software Engineering`.  
 - 💻 I am a competitive programmer on `Codeforces`, `Leetcode`, and `Geeks For Geeks`.  
 - 📚 Currently improving my skills in `Kotlin`, and `XML`.  
 - 🤓 Always `learning new things` and working on `innovative projects`.  
 - 🤔 Open to new `job opportunities` in `Mobile Development` & `Software Engineering`.  
-- 💥 Check out [MY PROJECTS](https://github.com/Aman-Agrawal-22?tab=repositories).
+- 💥 Check out [MY PROJECTS](https://github.com/Aman-Agrawal-22?tab=repositories){:target="_blank"}.
 
    </td>
    <td>
@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="https://codeforces.com/profile/amanvdjs11a" target="blank">
-    <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="CodeForces" />
+    <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="CodeForces"/>
    &nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://leetcode.com/u/amanvdjs11a/" target="blank">
