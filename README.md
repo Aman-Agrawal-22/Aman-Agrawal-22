@@ -36,11 +36,11 @@
 <h2><strong><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" alt="" width="30" /> My Competitive Programming Profiles</strong></h2>
 
 <div align="center">
-  <a href="https://codeforces.com/profile/amanvdjs11a" target="blank">
+  <a href="https://codeforces.com/profile/amanvdjs11a" target="_blank">
     <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="CodeForces"/>
    &nbsp;&nbsp;&nbsp;
   </a>
-  <a href="https://leetcode.com/u/amanvdjs11a/" target="blank">
+  <a href="https://leetcode.com/u/amanvdjs11a/" target="_blank">
     <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" />
      &nbsp;&nbsp;&nbsp;
   </a>
